@@ -11,3 +11,5 @@ option 1: Show you all the national parks in your entered state
 option 2: Sorted all the national parks in your entered state based on the geographical distance between your current location and the parks in ascending order.
 option 3: Show all the national parks in that state on the map
 option 4: quit the program
+
+### Recommend to run the code in Google Colab because if you run it locally, you will need to install the plotly package.
