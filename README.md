@@ -12,4 +12,8 @@ option 2: Sorted all the national parks in your entered state based on the geogr
 option 3: Show all the national parks in that state on the map
 option 4: quit the program
 
+### Packages required for the program: 
+
+BeautifulSoup / Requests / Pandas / Plotly.express / Numpy
+
 ### Recommend to run the code in Google Colab because if you run it locally, you will need to install the plotly package.
